@@ -36,7 +36,7 @@ Elke status heeft zijn eigen tijdsinstellingen:
 
 ### Voorbeeld van het Stoplichtsysteem
 
-Als er een auto aankomt, Dan kan het stoplicht op groen gaan springen. Nu doet het stoplicht mee aan de cyclus.
+Als er een auto aankomt, Dan kan het stoplicht op groen gaan springen. Nu doet het stoplicht mee aan de cyclus, zie hieronder:
 
 1. **Auto van Rechts**:
    - Rood → Groen → Geel → Rood
